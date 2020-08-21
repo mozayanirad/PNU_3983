@@ -1,0 +1,5 @@
++ [Greedy Algorithm-5-1] (http://dl1.abrim.ir/Videos/FMP/Algorithm/MM-980199629-Algorithm-part1.rar)
++ [Greedy Algorithm-5-2] (http://dl1.abrim.ir/Videos/FMP/Algorithm/MM-980199629-Algorithm-part2.rar)
++ [Greedy Algorithm-5-3] (http://dl1.abrim.ir/Videos/FMP/Algorithm/MM-980199629-Algorithm-part3.rar)
++ [Greedy Algorithm-5-4] (http://dl1.abrim.ir/Videos/FMP/Algorithm/MM-980199629-Algorithm-part4.rar)
++ [Greedy Algorithm-5-5] (http://dl1.abrim.ir/Videos/FMP/Algorithm/MM-980199629-Algorithm-part5.rar)
